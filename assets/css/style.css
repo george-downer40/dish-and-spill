@@ -68,5 +68,6 @@ h1, h2 {
 #about {
     font-family: Overlock, Arial;
     font-weight: 500;
+    font-size: 20pt;
     color: rgb(94, 11, 11);
 }
