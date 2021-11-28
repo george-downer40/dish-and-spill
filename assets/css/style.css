@@ -1,9 +1,12 @@
-h1 {
-    color: red;
-    text-transform: capitalize;
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Overlock&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
-p {
-    color: green;
-    text-transform: uppercase;
+body {
+    font-family: Overlock, Arial;
+    font-weight: 500;
 }
