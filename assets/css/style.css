@@ -6,6 +6,7 @@
     border: none;
 }
 
+
 body {
     font-family: Overlock, Arial;
     font-weight: 500;
@@ -64,28 +65,8 @@ h1, h2 {
     overflow: hidden;
 }
 
-#cover-text, #cover-text h2 {
-    color: white
-}
-
-#cover-text {
-    font-size: 130%;
-    font-family: caveat, Arial;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(241, 109, 107, .7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
-
-
+#about {
+    font-family: Overlock, Arial;
+    font-weight: 500;
+    color: rgb(94, 11, 11);
 }
