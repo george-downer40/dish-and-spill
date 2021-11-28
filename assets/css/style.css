@@ -20,39 +20,39 @@ h1, h2 {
     color: rgb(253, 5, 5);
 }
 
-#logo {
+.logo {
     float: left;
     font-size: 500%;
 }
 
 /* navigation links */
 
-#navigation {
+.navigation {
     font-size: 150%;
     letter-spacing: 5px;
 }
 
-#menu, #navigation {
+.navigation {
     line-height: 75px;
 }
 
-#navigation li {
+.navigation li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#navigation a {
+.navigation a {
     text-decoration: none;
     color: inherit;
 }
 
-#navigation a:hover {
+.navigation a:hover {
     border-bottom: 1px solid red;
 }
 
 .active {
-    border-bottom: 1px red;
+    border-bottom: 1px solid red
 }
 
 /* hero image */
@@ -62,4 +62,30 @@ h1, h2 {
     width: 100%;
     background: url(../images/hero-img-placeholder.jpg) no-repeat center center;
     overflow: hidden;
+}
+
+#cover-text, #cover-text h2 {
+    color: white
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: caveat, Arial;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+
+
 }
