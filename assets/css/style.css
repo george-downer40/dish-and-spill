@@ -9,18 +9,57 @@
 body {
     font-family: Overlock, Arial;
     font-weight: 500;
-    color: midnightblue;
+    color: rgb(94, 11, 11);
 }
 
 /* headings and logo */
 
 h1, h2 {
     font-family: Caveat, Arial;
-    letter-spacing: 4px;
-    color: maroon;
+    letter-spacing: 10px;
+    color: rgb(253, 5, 5);
 }
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 500%;
+}
+
+/* navigation links */
+
+#navigation {
+    font-size: 150%;
+    letter-spacing: 5px;
+}
+
+#menu, #navigation {
+    line-height: 75px;
+}
+
+#navigation li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navigation a:hover {
+    border-bottom: 1px solid red;
+}
+
+.active {
+    border-bottom: 1px red;
+}
+
+/* hero image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-img-placeholder.jpg) no-repeat center center;
+    overflow: hidden;
 }
