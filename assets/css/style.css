@@ -9,4 +9,18 @@
 body {
     font-family: Overlock, Arial;
     font-weight: 500;
+    color: midnightblue;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Caveat, Arial;
+    letter-spacing: 4px;
+    color: maroon;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
