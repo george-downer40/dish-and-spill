@@ -85,18 +85,21 @@ h1, h2 {
 }
 
 .contact-box-1 {
-    flex: 1;
+    /* flex: 0; */
     order: 2;
+    text-align: center;
 }
 
 .contact-box-2 {
     flex: 1;
     order: 1;
+    text-align: left;
 }
 
 .contact-box-3 {
     flex: 1;
     order: 3;
+    text-align: right;
 }
 
 .textbox {
@@ -109,6 +112,14 @@ h1, h2 {
 .bold {
     font-weight: bold;
 }
+
+table, th, td {
+    padding: 0px 30px;
+  }
+
+  table {
+    border-spacing: 5px;
+  }
 
 /*footer*/
 
