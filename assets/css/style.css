@@ -11,6 +11,7 @@ body {
     font-family: Overlock, Arial;
     font-weight: 500;
     color: rgb(94, 11, 11);
+    background-image: linear-gradient(to right,#F2F4E8,#CDD6C6, #A5BAA8);
 }
 
 /* headings and logo */
@@ -50,11 +51,11 @@ h1, h2 {
 }
 
 .navigation a:hover {
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #4D4637;
 }
 
 .active {
-    border-bottom: 1px solid red
+    border-bottom: 5px solid #4D4637;
 }
 
 /* hero image */
@@ -132,7 +133,7 @@ table, th, td {
 
 footer {
     height: 200px;
-    background: black;
+    /* background-image: linear-gradient(to right,#F2F4E8,#CDD6C6, #A5BAA8); */
 }
 
 .social-networks {
@@ -147,7 +148,7 @@ footer {
     font-size: 250%;
     margin: 1%;
     padding: 5%;
-    color: red;
+    color: #2E2F26;
 }
 
 .menu-image {
