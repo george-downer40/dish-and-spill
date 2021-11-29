@@ -19,6 +19,7 @@ h1, h2 {
     font-family: Caveat, Arial;
     letter-spacing: 10px;
     color: rgb(253, 146, 5);
+    margin: 20px 5px;
 }
 
 .logo {
@@ -71,6 +72,7 @@ h1, h2 {
     font-weight: 500;
     font-size: 20pt;
     color: rgb(94, 11, 11);
+    padding: 30px 10px;
 }
 
 #map {
@@ -82,6 +84,7 @@ h1, h2 {
 
 .contact-container {
     display: flex;
+    padding: 10px 10px;
 }
 
 .contact-box-1 {
@@ -94,12 +97,16 @@ h1, h2 {
     flex: 1;
     order: 1;
     text-align: left;
+    padding: 10px 10px;
+    margin-left: 70px;
 }
 
 .contact-box-3 {
     flex: 1;
     order: 3;
     text-align: right;
+    padding: 10px 10px;
+    margin-right: 70px;
 }
 
 .textbox {
