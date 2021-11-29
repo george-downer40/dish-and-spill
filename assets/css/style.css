@@ -114,3 +114,17 @@ footer {
     border: 5%;
     padding: 5%;
 }
+
+#menu-top-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/menu-top.jpg) no-repeat center center;
+    overflow: hidden;
+}
+
+.menu-opening {
+    font-family: Overlock, Arial;
+    font-weight: 500;
+    font-size: 20pt;
+    color: rgb(94, 11, 11);
+}
