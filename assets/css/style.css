@@ -50,12 +50,34 @@ h1, h2 {
     color: inherit;
 }
 
+.nav-box {
+    display: flex;
+    font-size: 180%;
+    letter-spacing: 4px;
+    justify-content: right;
+    align-items: center;
+}
+.nav-box-1 {
+    flex: 1;
+    order: 1;
+}
+
+.nav-box-2 {
+    flex: 1;
+    order: 2;
+}
+
+.nav-box-3 {
+    flex: 1;
+    order: 3;
+}
+
 .navigation a:hover {
-    border-bottom: 1px solid #4D4637;
+    border-bottom: 2px solid #4D4637;
 }
 
 .active {
-    border-bottom: 5px solid #4D4637;
+    border-bottom: 2px solid #4D4637;
 }
 
 /* hero image */
