@@ -183,19 +183,16 @@ footer {
     color: #2E2F26;
 }
 
+/*menu.html page*/
+
+
 .menu-image {
-    height: 300px;
-    border: 5%;
-    padding: 5%;
+    max-width: 50%;
+    max-height: 300px;
+    /* border: 5%;
+    padding: 5%; */
     overflow: hidden;
     float: left;
-}
-
-.menu {
-    text-align: right;
-    height: 300px;
-    border: 5%;
-    padding: 5%;
 }
 
 #menu-top-image {
@@ -210,4 +207,11 @@ footer {
     font-weight: 500;
     font-size: 20pt;
     color: rgb(54, 7, 7);
+}
+
+.menu-list {
+    float: right;
+    padding: 20px 10px;
+    margin: 0 auto;
+    height: 300px;
 }
