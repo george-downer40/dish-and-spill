@@ -78,6 +78,27 @@ h1, h2 {
     height: 300px;
 }
 
+/*contact box on index page*/
+
+.contact-container {
+    display: flex;
+}
+
+.contact-box-1 {
+    flex: 1;
+    order: 2;
+}
+
+.contact-box-2 {
+    flex: 1;
+    order: 1;
+}
+
+.contact-box-3 {
+    flex: 1;
+    order: 3;
+}
+
 /*footer*/
 
 footer {
