@@ -12,9 +12,6 @@ As an individual, business or member of a community group who has found this sit
 Header fixed to top of page that includes navigation links to other pages on the site. 
 The navigation icons will highlight when hovered over for easy navigation.
 The Dish & Spill title in the header will always link back to the home page.
-The map on the homepage will show the location of the restaurant. The map can be selected to open google maps in a separate window.
-The menu will have its own page to ensure it’s easy to read and easily accessible from any other page on the site.
-The community page will have a video embedded to provide users with more information on loneliness / the need for community. This will also be clickable and will open in a separate window.
 The footer will have icons linking to all social media pages. These will open in a new window to ensure the user will continue to read the Dish & Spill site.
 
 ## Future Features
