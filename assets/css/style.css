@@ -72,3 +72,8 @@ h1, h2 {
     font-size: 20pt;
     color: rgb(94, 11, 11);
 }
+
+#map {
+    width:100%;
+    height: 300px;
+}
