@@ -94,7 +94,7 @@ h1, h2 {
 #about {
     font-family: Overlock, Arial;
     font-weight: 400;
-    font-size: 18pt;
+    font-size: 150%;
     color: rgb(54, 7, 7);
     padding: 30px 10px;
 }
@@ -154,9 +154,6 @@ table, th, td {
     padding: 0px 30px;
   }
 
-  /* table {
-    border-spacing: 5px;
-  } */
 
 /*footer*/
 
