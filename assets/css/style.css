@@ -233,4 +233,8 @@ footer p {
     footer {
         height: 100px;
     }
+
+    .logo {
+        font-size: 350%;
+    }
 }
