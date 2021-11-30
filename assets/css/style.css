@@ -21,7 +21,6 @@ hr {
 }
 
 /* headings and logo */
-
 h1, h2 {
     font-family: Caveat, Arial;
     font-size: 200%;
@@ -36,7 +35,6 @@ h1, h2 {
 }
 
 /* navigation links */
-
 .navigation {
     line-height: 75px;
 }
@@ -82,7 +80,6 @@ h1, h2 {
 }
 
 /* hero image */
-
 #hero-image {
     height: 600px;
     width: 100%;
@@ -90,7 +87,6 @@ h1, h2 {
     overflow: hidden;
 }
 /* about section */
-
 #about {
     font-family: Overlock, Arial;
     font-weight: 400;
@@ -110,7 +106,6 @@ h1, h2 {
 }
 
 /*contact box on index page*/
-
 .contact-container {
     display: flex;
     padding: 10px 10px;
@@ -156,7 +151,6 @@ table, th, td {
 
 
 /*footer*/
-
 footer p {
     text-align: center;
     padding: 10px;
@@ -215,7 +209,6 @@ footer p {
 }
 
 /* media queries */
-
 @media screen and (max-width: 800px) {
     #about-heading {
         text-align: center;
