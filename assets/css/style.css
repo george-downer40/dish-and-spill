@@ -165,8 +165,8 @@ table, th, td {
 /*footer*/
 
 footer {
-    height: 200px;
-    /* background-image: linear-gradient(to right,#F2F4E8,#CDD6C6, #A5BAA8); */
+    height: 50px;
+    background-image: linear-gradient(to right,#F2F4E8,#CDD6C6, #A5BAA8);
 }
 
 .social-networks {
@@ -179,8 +179,8 @@ footer {
 
 .social-networks i {
     font-size: 250%;
-    margin: 1%;
-    padding: 5%;
+    padding: 1%;
+    margin: 1% 10%;
     color: #2E2F26;
 }
 
