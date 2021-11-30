@@ -195,7 +195,7 @@ footer p {
 .menu-container {
     display: flex;
     padding: 10px 10px;
-    align-items: baseline;
+    align-items: center;
     justify-content: center;    
 }
 
