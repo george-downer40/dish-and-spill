@@ -79,7 +79,7 @@ h1, h2 {
     border-bottom: 2px solid #4D4637;
 }
 
-/* hero image */
+/*images */
 #hero-image {
     height: 600px;
     width: 100%;
@@ -93,6 +93,12 @@ h1, h2 {
     background: url(../images/menu-top-image.jpg) no-repeat center center;
     overflow: hidden;
 }
+
+#small-plates {
+    height: 300px;
+    width: 30%;
+    background: url(../images/small-plates.jpg) no-repeat center center;
+    overflow: hidden;
 
 /* about section */
 .about {
