@@ -261,6 +261,12 @@ footer p {
 
     .logo {
         text-align: center;
+        float: none;
+    }
+
+    .navigation li {
+        margin: 10px;
+        padding: 1%;
     }
 
     .nav-box {
