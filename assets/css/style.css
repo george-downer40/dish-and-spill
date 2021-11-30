@@ -164,9 +164,9 @@ table, th, td {
 
 /*footer*/
 
-footer {
-    height: 50px;
-    background-image: linear-gradient(to right,#F2F4E8,#CDD6C6, #A5BAA8);
+footer p {
+    text-align: center;
+    padding: 10px;
 }
 
 .social-networks {
@@ -184,6 +184,10 @@ footer {
     color: #2E2F26;
 }
 
+#footer-call-to-action {
+    font-size: 150%;
+    margin-bottom: -20px;
+}
 /*menu.html page*/
 
 
