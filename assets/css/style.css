@@ -269,6 +269,11 @@ footer p {
 
     }
 
+    .about {
+        font-size: 110%;
+        padding: 0;
+    }
+
     .navigation li {
         margin: 10px;
         padding: 1%;
@@ -300,6 +305,10 @@ footer p {
     .contact-box-3 {
         margin-right: 0;
         text-align: center;
+    }
+
+    .social-networks i {
+        font-size: 125%;
     }
 
     #hero-image {
