@@ -214,8 +214,12 @@ footer p {
 }
 
 .menu-box-2 ul {
-    font-size: 140%;
+    font-size: 160%;
     list-style: none;
+}
+
+.menu-box-2 ul li {
+    margin: 25px 0;
 }
 
 /* media queries */
