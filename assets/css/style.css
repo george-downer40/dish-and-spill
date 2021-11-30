@@ -20,6 +20,11 @@ hr {
      margin: 10px auto;
 }
 
+img {
+    max-height: 300px;
+    max-width: 400px;
+}
+
 /* headings and logo */
 h1, h2 {
     font-family: Caveat, Arial;
@@ -96,9 +101,10 @@ h1, h2 {
 
 #small-plates {
     height: 300px;
-    width: 30%;
-    background: url(../images/small-plates.jpg) no-repeat center center;
+    width: 100%;
+    background: url(../images/small-plate.jpg) no-repeat center center;
     overflow: hidden;
+}
 
 /* about section */
 .about {
