@@ -154,9 +154,9 @@ table, th, td {
     padding: 0px 30px;
   }
 
-  table {
+  /* table {
     border-spacing: 5px;
-  }
+  } */
 
 /*footer*/
 
@@ -240,6 +240,6 @@ footer p {
     }
 
     #hero-image {
-        height: 400px;
+        height: 300px;
     }
 }
