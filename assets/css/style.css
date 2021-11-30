@@ -120,6 +120,7 @@ h1, h2 {
     display: flex;
     padding: 10px 10px;
     align-items: baseline;
+    justify-content: center;
 }
 
 .contact-box-1 {
