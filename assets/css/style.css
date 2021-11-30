@@ -220,6 +220,10 @@ footer p {
         height: 100px;
     }
 
+    table, th, td {
+        padding: 0px 10px;
+    }
+
     .logo {
         font-size: 350%;
     }
@@ -235,6 +239,14 @@ footer p {
 
     #hero-image {
         height: 300px;
+    }
+
+    .contact-box-2 {
+        margin-left: 0;
+    }
+
+    .contact-box-3 {
+        margin-right: 0;
     }
 }
 
