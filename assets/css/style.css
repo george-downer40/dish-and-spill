@@ -236,6 +236,10 @@ footer p {
        letter-spacing: 0px;
     }
 
+    .textbox {
+        font-size: 100%;
+    }
+
     #hero-image {
         height: 300px;
     }
