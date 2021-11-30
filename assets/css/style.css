@@ -95,7 +95,7 @@ h1, h2 {
     padding: 30px 10px;
 }
 
-#about-heading {
+.about-heading {
     /* margin-left: 25px; */
     margin: -20px 0 0 25px;
 }
@@ -210,7 +210,7 @@ footer p {
 
 /* media queries */
 @media screen and (max-width: 800px) {
-    #about-heading {
+    .about-heading {
         text-align: center;
         margin: -25px 0 0 0;
         padding-right: 25px;
