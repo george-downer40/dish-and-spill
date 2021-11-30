@@ -119,6 +119,7 @@ h1, h2 {
 .contact-container {
     display: flex;
     padding: 10px 10px;
+    align-items: baseline;
 }
 
 .contact-box-1 {
@@ -223,5 +224,9 @@ footer {
         text-align: center;
         margin: -25px 0 0 0;
         padding-right: 25px;
+    }
+
+    footer {
+        height: 100px;
     }
 }
