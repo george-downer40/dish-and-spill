@@ -191,6 +191,32 @@ footer p {
     margin: 0 13%;
     color: #2E2F26;
 }
+/*menu lists*/
+.menu-container {
+    display: flex;
+    padding: 10px 10px;
+    align-items: baseline;
+    justify-content: center;    
+}
+
+.menu-box-1 {
+    flex: 1;
+    order: 1;
+    text-align: left;
+    padding: 10px 10px;
+}
+
+.menu-box-2 {
+    flex: 1;
+    order: 1;
+    text-align: right;
+    padding: 10px 10px;
+}
+
+.menu-box-2 ul {
+    font-size: 140%;
+    list-style: none;
+}
 
 /* media queries */
 @media screen and (max-width: 800px) {
