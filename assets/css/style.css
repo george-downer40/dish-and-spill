@@ -142,7 +142,7 @@ h1, h2 {
 .textbox {
     font-family: Overlock, Arial;
     font-weight: 500;
-    font-size: 14pt;
+    font-size: 150%;
     color: rgb(54, 7, 7);
 }
 
