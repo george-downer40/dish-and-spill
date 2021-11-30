@@ -223,6 +223,10 @@ footer p {
     margin: 25px 0;
 }
 
+.menu-box-2 h2 {
+    font-size: 250%;
+}
+
 /* media queries */
 @media screen and (max-width: 800px) {
     .about-heading {
