@@ -302,5 +302,9 @@ footer p {
         text-align: center;
     }
 
+    #hero-image {
+        margin: 10px 0 30px;
+    }
+
 
 }
