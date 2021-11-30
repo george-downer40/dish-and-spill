@@ -21,8 +21,8 @@ hr {
 }
 
 img {
-    max-height: 300px;
-    max-width: 400px;
+    max-height: 400px;
+    max-width: 600px;
 }
 
 /* headings and logo */
@@ -204,12 +204,12 @@ footer p {
     order: 1;
     text-align: left;
     padding: 10px 10px;
+    margin-left: 60px;
 }
 
 .menu-box-2 {
     flex: 1;
     order: 1;
-    text-align: right;
     padding: 10px 10px;
 }
 
