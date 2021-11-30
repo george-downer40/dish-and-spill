@@ -259,9 +259,14 @@ footer p {
         padding: 5px;
     }
 
+    a {
+        text-decoration: none;
+    }
+
     .logo {
         text-align: center;
         float: none;
+
     }
 
     .navigation li {
