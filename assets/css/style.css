@@ -251,6 +251,21 @@ footer p {
 }
 
 @media screen and (max-width: 375px) {
+    h1, h2 {
+        letter-spacing: 0;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .nav-box {
+        font-size: 120%;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        align-content: stretch;
+    }
+    
     .contact-container {
         align-items: center;
         flex-direction: column;
