@@ -23,6 +23,7 @@ hr {
 img {
     max-height: 400px;
     max-width: 600px;
+    border-radius: 12px;
 }
 
 /* headings and logo */
