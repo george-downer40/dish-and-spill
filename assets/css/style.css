@@ -86,6 +86,14 @@ h1, h2 {
     background: url(../images/hero-img-placeholder.jpg) no-repeat center center;
     overflow: hidden;
 }
+
+#menu-top-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/menu-top-image.jpg) no-repeat center center;
+    overflow: hidden;
+}
+
 /* about section */
 .about {
     font-family: Overlock, Arial;
@@ -170,42 +178,6 @@ footer p {
     padding: 0 1%;
     margin: 0 13%;
     color: #2E2F26;
-}
-
-/* #footer-call-to-action {   
-} */
-
-/*menu.html page*/
-
-
-.menu-image {
-    max-width: 50%;
-    max-height: 300px;
-    /* border: 5%;
-    padding: 5%; */
-    overflow: hidden;
-    float: left;
-}
-
-#menu-top-image {
-    height: 600px;
-    width: 100%;
-    background: url(../images/menu-top.jpg) no-repeat center center;
-    overflow: hidden;
-}
-
-.menu-opening {
-    font-family: Overlock, Arial;
-    font-weight: 500;
-    font-size: 20pt;
-    color: rgb(54, 7, 7);
-}
-
-.menu-list {
-    float: right;
-    padding: 20px 10px;
-    margin: 0 auto;
-    height: 300px;
 }
 
 /* media queries */
