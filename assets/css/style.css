@@ -100,10 +100,10 @@ h1, h2 {
     overflow: hidden;
 }
 
-#small-plates {
-    height: 300px;
+#get-in-touch-top-image {
+    height: 600px;
     width: 100%;
-    background: url(../images/small-plate.jpg) no-repeat center center;
+    background: url(../images/get-in-touch-top-image.jpg) no-repeat center center;
     overflow: hidden;
 }
 
