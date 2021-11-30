@@ -167,6 +167,7 @@ table, th, td {
 footer p {
     text-align: center;
     padding: 10px;
+    font-size: 110%;
 }
 
 .social-networks {
@@ -179,15 +180,14 @@ footer p {
 
 .social-networks i {
     font-size: 250%;
-    padding: 1%;
-    margin: 1% 10%;
+    padding: 0 1%;
+    margin: 0 13%;
     color: #2E2F26;
 }
 
-#footer-call-to-action {
-    font-size: 110%;
-    margin-bottom: -25px;
-}
+/* #footer-call-to-action {   
+} */
+
 /*menu.html page*/
 
 
