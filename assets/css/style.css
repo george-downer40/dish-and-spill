@@ -21,8 +21,8 @@ hr {
 }
 
 img {
-    max-height: 400px;
-    max-width: 600px;
+    height: 400px;
+    width: 600px;
     border-radius: 12px;
 }
 
