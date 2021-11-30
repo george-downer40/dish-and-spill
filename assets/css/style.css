@@ -255,6 +255,10 @@ footer p {
         letter-spacing: 0;
     }
 
+    nav {
+        padding: 5px;
+    }
+
     .logo {
         text-align: center;
     }
