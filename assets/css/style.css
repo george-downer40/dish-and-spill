@@ -250,4 +250,15 @@ footer p {
         font-size: 75%
     }
 
+    .contact-box-2 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .contact-box-3 {
+        margin-right: 0;
+        text-align: center;
+    }
+
+
 }
