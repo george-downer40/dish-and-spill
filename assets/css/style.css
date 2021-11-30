@@ -238,4 +238,8 @@ footer p {
        line-height: 0px; 
        letter-spacing: 0px;
     }
+
+    #hero-image {
+        height: 400px;
+    }
 }
