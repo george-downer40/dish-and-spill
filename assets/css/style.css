@@ -248,6 +248,15 @@ footer p {
 label {
     flex-basis: 130px;
     margin-top: 10px;
+    padding-right: 30px;
+    color: #F2F4E8;
+}
+
+form {
+    border-radius: 20px;
+    background: rgb(54, 7, 7);
+    padding: 30px 60px;
+    margin-bottom: 30px;
 }
 
 input[type=submit] {
