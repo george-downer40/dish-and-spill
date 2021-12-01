@@ -48,7 +48,7 @@ h1, h2 {
 
 .navigation li {
     list-style-type: none;
-    margin: 20px 30px 0px 0px;
+    margin: 20px 30px 0 0;
 }
 
 .navigation a {
@@ -184,7 +184,7 @@ h1, h2 {
 }
 
 table, th, td {
-    padding: 0px 30px;
+    padding: 0 30px;
   }
 
 
@@ -296,7 +296,7 @@ textarea {
     }
 
     table, th, td {
-        padding: 0px 10px;
+        padding: 0 10px;
     }
 
     .logo {
@@ -304,8 +304,8 @@ textarea {
     }
 
     .navigation {
-       line-height: 0px; 
-       letter-spacing: 0px;
+       line-height: 0; 
+       letter-spacing: 0;
        padding-top: 20px;
     }
 
