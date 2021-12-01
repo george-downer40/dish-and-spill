@@ -1,26 +1,28 @@
 # Dish & Spill
 
-## Purpose of the project
-The purpose of this website is to showcase the restaurant ‘Dish & Spill’. It is designed to be intuitive and user friendly, allowing visitors to easily learn about the restaurant, its menu, and its community purpose.  
+[Link to live site](https://george-downer40.github.io/dish-and-spill/)
 
-## User stories
-As a visiting user, I want to learn about the restaurant, in particular the food served, the location of the restaurant and its opening times, so that I can decide if this is a somewhere I would like to eat, and if its opening times align with my upcoming plans.
-As a returning customer (assuming I have dined here before), I want to check if there are any new additions to the seasonal menu, and that the opening times are still viable for my schedule.
-As an individual, business or member of a community group who has found this site due to searching for information on either community venues or combatting loneliness, I want to learn more about the community aspect of the restaurant so that I make a decision as to whether I would like to become involved in that aspect of the restaurant.
+[Link to my Github](https://github.com/george-downer40)
+
+The purpose of this website is to showcase the restaurant ‘Dish & Spill’. The restaurant is focussed around a community feel with an emphasis on ‘family style’ eating. This sets the restaurant apart from other locations and the website is designed to emphasise that community feel. It is designed to be intuitive and user friendly, allowing visitors to easily learn about the restaurant, its menu, and its community purpose.
+
+![am i responsive](/docs/screenshots/am-i-responsive-image.png "responsiveness example")
+
+## User Stories
+
+* As a visiting user, I want to learn about the restaurant, in particular the food served, the location of the restaurant and its opening times, so that I can decide if this is a somewhere I  would like to eat, and if its opening times align with my upcoming plans.
+* As a returning customer (assuming I have dined here before), I want to check if there are any new additions to the seasonal menu, and that the opening times are still viable for my schedule.
+* As a visiting user who is looking for something different to a standard restaurant I want to learn more about the community aspect of Dish & Spill.
 
 ## Features
-Header fixed to top of page that includes navigation links to other pages on the site. 
-The navigation icons will highlight when hovered over for easy navigation.
-The Dish & Spill title in the header will always link back to the home page.
-The footer will have icons linking to all social media pages. These will open in a new window to ensure the user will continue to read the Dish & Spill site.
 
-## Future Features
-A booking page allowing users to make a reservation from the site, making it much easier and more convenient for the user to book a table.
-A gallery showing the restaurant & past community events or dishes.
-A newsletter sign up option to allow users to subscribe and keep up to date with menu changes, community events and offers.
+* Navigation bar
+    * The navigation icons will underline when hovered over for easy navigation. The navigation icons are available on every page on the site ensuring a user can navigate to the section they wish to view easily.
+![navigation bar](/docs/screenshots/nav-bar.png "picture of navigation bar")
 
-## Typography & Color Scheme
-Will complete when colors and fonts choose.
+* Menu Page
+    * As the site is for a restaurant, a dedicated menu page is very important and provides great value to a visiting user.
+![menu](/docs/screenshots/menu-page.png "picture of menu")
 
-## Wireframes
-Link to wireframes designed in Balsamiq
+
+
