@@ -133,6 +133,15 @@ h1, h2 {
     margin: 10px 5px;
 }
 
+.form-confirm {
+    font-family: Overlock, Arial;
+    font-weight: 400;
+    font-size: 150%;
+    color: rgb(54, 7, 7);
+    padding: 30px 10px;
+    text-align: center;
+}
+
 /*contact box on index page*/
 .contact-container {
     display: flex;
