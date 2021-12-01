@@ -45,6 +45,39 @@ The purpose of this website is to showcase the restaurant ‘Dish & Spill’. Th
 
 The colours chosen are designed to inspire both cleanliness and relaxation. The typography used (Overlock & Caveat) are intended to complement the site's colours and give the restaurant a slightly informal and friendly design.
 
+## Future Features
+
+In the future, the addition of a booking page and an option to sign up to a newsletter would greatly improve the site. The booking page would ensure that users can make a reservation while still on the site, and the newsletter sign up would keep visiting users who like the restaurant updated with menu changes and events, ensuring returning customers.
+
+## Testing
+### Validator Testing
+
+All html and css code has been run through the W3C validator (for html) and the Jigsaw validator (for css).
+
+![picture of W3C results](/docs/screenshots/w3-validator-no-errors.png "W3C results")
+
+![picture of Jigsaw results](/docs/screenshots/jigsaw-results.png "Jigsaw results")
+
+### Lighthouse
+
+The site was also tested using the Lighthouse feature on Chrome Developer Tools, scoring 97.
+
+![picture of lighthouse results](/docs/screenshots/lighthouse-score.png "lighthouse score")
+
+### Programs & Devices
+
+* The site was tested on Chrome.
+    * The site was also tested on a Windows desktop, Samsung S8 Plus and an iPhone 12
+
+### Responsiveness
+
+The site was tested for responsiveness using Chrome Developer Tools, and has 6 media queries in the css style sheet at various widths to ensure maximum compatibility on as many devices and screen sizes as possible.
+
+### Bugs
+
+
+
+
 
 
 
