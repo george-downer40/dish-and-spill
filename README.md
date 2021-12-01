@@ -20,7 +20,7 @@ A gallery showing the restaurant & past community events or dishes.
 A newsletter sign up option to allow users to subscribe and keep up to date with menu changes, community events and offers.
 
 ## Typography & Color Scheme
-Will complete when colors and fonts chosen.
+Will complete when colors and fonts choose.
 
 ## Wireframes
 Link to wireframes designed in Balsamiq
