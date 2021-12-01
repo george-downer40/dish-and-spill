@@ -16,13 +16,15 @@ The purpose of this website is to showcase the restaurant ‘Dish & Spill’. Th
 
 ## Features
 
-* Navigation bar
+* Navigation Bar
     * The navigation icons will underline when hovered over for easy navigation. The navigation icons are available on every page on the site ensuring a user can navigate to the section they wish to view easily.
-![navigation bar](/docs/screenshots/nav-bar.png "picture of navigation bar")
+![picture of navigation bar](/docs/screenshots/nav-bar.png "navigation bar")
 
 * Menu Page
     * As the site is for a restaurant, a dedicated menu page is very important and provides great value to a visiting user.
-![menu](/docs/screenshots/menu-page.png "picture of menu")
+![picture of menu](/docs/screenshots/menu-page.png "menu page")
 
-
+* Contact Form
+    * The contact form provides a visiting user an easy way to leave feedback for the restaurant.
+![picture of contact form](/docs/screenshots/contact-form.png "contact form")
 
