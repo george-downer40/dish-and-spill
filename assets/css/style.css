@@ -317,6 +317,19 @@ textarea {
         height: 300px;
     }
 
+    #menu-top-image {
+        height: 300px;
+    }
+
+    #get-in-touch-top-image {
+        height: 300px;
+    }
+
+    #form-confirm-top-image {
+        height: 300px;
+    }
+
+
     .contact-box-2 {
         margin-left: 0;
     }
@@ -453,6 +466,22 @@ textarea {
         margin: 10px 0 30px;
         height: 200px;
     }
+
+    #menu-top-image {
+        margin: 10px 0 30px;
+        height: 200px;
+    }
+
+    #get-in-touch-top-image {
+        margin: 10px 0 30px;
+        height: 200px;
+    }
+
+    #form-confirm-top-image {
+        margin: 10px 0 30px;
+        height: 200px;
+    }
+
 
 
 }
