@@ -81,6 +81,28 @@ When the html code was initally run through the W3C validator, a warning message
 
 ![picture of w3c warning](/docs/screenshots/index.html-w3-validation-error.png "w3c warning")
 
+A custom Favicon icon was created to show in the tab head when the site is open. However, it only showed the icon when running the site from terminal commands in gitpod. On the published site the custom icon does not show. I could not find a solution to fix this and it has not been resolved.
+
+![picture of icon bug](/docs/screenshots/icon-bug.png "icon bug")
+
+## Deployment
+
+## Credits
+
+ * The menu items were taken from the book 'Around the Table' by Great British Chefs.
+ * Instructions on how to implement flexbox css were obtained from [css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * Guidance on css styling was obtained from various users questions and submissions on [stack-overflow.com](https://stackoverflow.com/)
+ * YouTube guides and tutorials were used such as [HTML Login Form Design Styling (with CSS Flexbox) Tutorial 2021](https://www.youtube.com/watch?v=Ba-Ly1EQg2A&t=670s/) for styling my form element and many videos from [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/) for a better understanding of css.
+ * Wireframes made using Balsamiq.
+ * Icons for the footer taken from [Font Awesome](https://fontawesome.com/)
+ * The Code Institute Coders Coffee House & Love Running projects were used as guidance and inspiration.
+ * Colours for the site selected from [colorspace.com](https://mycolor.space/?hex=%23F2F4E8&sub=1/)
+ 
+ ### Media
+
+ * All images used were taken from [pexels.com](https://www.pexels.com/)
+
+
 
 
 
