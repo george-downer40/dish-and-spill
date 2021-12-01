@@ -18,13 +18,33 @@ The purpose of this website is to showcase the restaurant ‘Dish & Spill’. Th
 
 * Navigation Bar
     * The navigation icons will underline when hovered over for easy navigation. The navigation icons are available on every page on the site ensuring a user can navigate to the section they wish to view easily.
+
 ![picture of navigation bar](/docs/screenshots/nav-bar.png "navigation bar")
 
 * Menu Page
     * As the site is for a restaurant, a dedicated menu page is very important and provides great value to a visiting user.
+
 ![picture of menu](/docs/screenshots/menu-page.png "menu page")
 
 * Contact Form
     * The contact form provides a visiting user an easy way to leave feedback for the restaurant.
+
 ![picture of contact form](/docs/screenshots/contact-form.png "contact form")
+
+* Form Submission Page
+    * The contact form links to a form submission page thanking the user for leaving feedback. This allows the user to return to either the index page or another page rather than being stuck on a thank you page.
+
+![picture of thank you page](/docs/screenshots/form-submission-page.png "submission page")
+
+* Footer
+    * The footer contains links to social media channels for the restaurant. These open in a new tab to ensure the user can still access the Dish & Spill site easily.
+
+![picture of footer](/docs/screenshots/footer.png "footer")
+
+## Colours & Typography
+
+The colours chosen are designed to inspire both cleanliness and relaxation. The typography used (Overlock & Caveat) are intended to complement the site's colours and give the restaurant a slightly informal and friendly design.
+
+
+
 
