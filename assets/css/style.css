@@ -329,6 +329,29 @@ textarea {
     .social-networks i {
         margin: 0 10%;
     }
+    .navigation { 
+        font-size: 150%;
+    }
+    .about {
+        font-size: 120%;
+    }
+
+}
+
+@media screen and (max-width: 625px) {
+    a {
+        text-decoration: none;
+    }
+    .logo {
+        text-align: center;
+        float: none;
+    }
+    .nav-box {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        align-content: stretch;
+        margin-bottom: 30px;
+    }
 }
 
 @media screen and (max-width: 375px) {
