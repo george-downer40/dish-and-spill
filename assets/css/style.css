@@ -367,13 +367,34 @@ textarea {
     }
 }
 
+@media screen and (max-width: 535px) {
+    .contact-container {
+        align-items: center;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+
+    .contact-box-2 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .contact-box-3 {
+        margin-right: 0;
+        text-align: center;
+    }
+}
+
+
 @media screen and (max-width: 375px) {
     h1, h2 {
         letter-spacing: 0;
+        margin: 0;
     }
 
     nav {
-        padding: 5px;
+        padding: 0
     }
 
     a {
@@ -401,6 +422,8 @@ textarea {
         justify-content: space-between;
         flex-wrap: nowrap;
         align-content: stretch;
+        margin: 0;
+        padding: 0;
     }
     
     .contact-container {
@@ -430,6 +453,7 @@ textarea {
 
     #hero-image {
         margin: 10px 0 30px;
+        height: 200px;
     }
 
 
