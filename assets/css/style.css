@@ -283,7 +283,7 @@ textarea {
     height: 60px;
 }
 /* media queries */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
     .about-heading {
         text-align: center;
         margin: -25px 0 0 0;
@@ -305,6 +305,7 @@ textarea {
     .navigation {
        line-height: 0px; 
        letter-spacing: 0px;
+       padding-top: 20px;
     }
 
     .textbox {
@@ -321,6 +322,12 @@ textarea {
 
     .contact-box-3 {
         margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .social-networks i {
+        margin: 0 10%;
     }
 }
 
