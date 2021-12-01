@@ -108,7 +108,7 @@ h1, h2 {
 }
 
 #form-confirm-top-image {
-    height: 600px;
+    height: 400px;
     width: 100%;
     background: url(../images/form-confirm-top-image.jpg) no-repeat center center;
     overflow: hidden;
@@ -140,6 +140,7 @@ h1, h2 {
     color: rgb(54, 7, 7);
     padding: 30px 10px;
     text-align: center;
+    margin-bottom: 100px;
 }
 
 /*contact box on index page*/
