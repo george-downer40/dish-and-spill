@@ -21,9 +21,10 @@ hr {
 }
 
 img {
-    height: 400px;
-    width: 600px;
+    height: auto;
+    width: 400px;
     border-radius: 12px;
+    max-width: 100%;
 }
 
 /* headings and logo */
@@ -225,7 +226,7 @@ footer p {
 }
 
 .menu-box-2 {
-    flex: 1;
+    flex: 2;
     order: 1;
     padding: 10px 10px;
 }
@@ -419,9 +420,6 @@ textarea {
 
     .nav-box {
         font-size: 120%;
-        justify-content: space-between;
-        flex-wrap: nowrap;
-        align-content: stretch;
         margin: 0;
         padding: 0;
     }
