@@ -87,6 +87,12 @@ A custom Favicon icon was created to show in the tab head when the site is open.
 
 ## Deployment
 
+* Go to your github repo page
+* select the correct repo for this site
+* select setting on the repo page
+* ensure branch main is selected
+* Click save & wait for Github to publish and provide a link to the live site
+
 ## Credits
 
  * The menu items were taken from the book 'Around the Table' by Great British Chefs.
@@ -97,7 +103,7 @@ A custom Favicon icon was created to show in the tab head when the site is open.
  * Icons for the footer taken from [Font Awesome](https://fontawesome.com/)
  * The Code Institute Coders Coffee House & Love Running projects were used as guidance and inspiration.
  * Colours for the site selected from [colorspace.com](https://mycolor.space/?hex=%23F2F4E8&sub=1/)
- 
+
  ### Media
 
  * All images used were taken from [pexels.com](https://www.pexels.com/)
