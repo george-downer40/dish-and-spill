@@ -244,6 +244,32 @@ footer p {
     margin: 0;
 }
 
+/* form styling */
+label {
+    flex-basis: 130px;
+    margin-top: 10px;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    margin: 20px 0;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.form-box {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
 /* media queries */
 @media screen and (max-width: 800px) {
     .about-heading {
