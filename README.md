@@ -75,6 +75,11 @@ The site was tested for responsiveness using Chrome Developer Tools, and has 6 m
 
 ### Bugs
 
+When testing the form on the feedback page, the form method POST would bring up an error message and an attempted submission would not lead to the thank you page. This was resolved by removing the POST method from the form element, as for the purpose of this project, it wasn't neccessary.
+
+When the html code was initally run through the W3C validator, a warning message was given recommending a h1, h2, h3 etc. element was added. This was not needed on the site though and was resolved by including an aria-label attribute in the code that caused the warning.
+
+![picture of w3c warning](/docs/screenshots/index.html-w3-validation-error.png "w3c warning")
 
 
 
