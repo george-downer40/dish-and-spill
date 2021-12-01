@@ -426,6 +426,29 @@ textarea {
         margin-right: 0;
         text-align: center;
     }
+
+    .form-box {
+        flex-direction: column;
+        margin-bottom: 0;
+    }
+
+    label {
+        flex-basis: 0;
+        margin-top: 0;
+        padding-right: 0;
+    }
+
+    .form-container {
+        font-size: 100%;
+    }
+
+    form {
+        margin-bottom: 0;
+    }
+
+    input[type=submit] {
+        margin: 10px 0;
+    }
 }
 
 
